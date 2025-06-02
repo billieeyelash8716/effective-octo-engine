@@ -1,0 +1,4 @@
+py-cord
+wavelink
+spotipy
+yt-dlp
